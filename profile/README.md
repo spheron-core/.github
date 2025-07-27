@@ -28,7 +28,7 @@ With a permissionless stack built on [Base](https://base.org), Spheron is alread
 ## 🧱 Core Protocol
 
 Explore the tools and documentation to interact with the Spheron Protocol:
-
+  
 - **[Spheron Console](https://console.spheron.network)**  
   Web-based dashboard for deploying, monitoring, and managing workloads.
 
@@ -56,7 +56,7 @@ A growing ecosystem of apps, experiments, and platforms powered by Spheron's inf
 - **[SkynetXBT](https://skynetxbt.ai)**  
   Decentralized AI workload orchestration and automated compute matching platform.
 
-- **[KlippyAI](https://klippai.com)**  
+- **[Klippy AI](https://klippyai.com)**  
   AI-powered anime video generation tool leveraging GPU inference across Spheron nodes.
 
 ---
