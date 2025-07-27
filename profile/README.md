@@ -29,6 +29,12 @@ With a permissionless stack built on [Base](https://base.org), Spheron is alread
 
 Explore the tools and documentation to interact with the Spheron Protocol:
   
+- **[Fizz Node](https://docs.spheron.network/fizz)**  
+  Lightweight clients for gaming PCs and laptops contributing compute to the network.
+
+- **[Provider Node](https://docs.spheron.network/providers)**  
+  Higher-performance nodes designed for heavier workloads and regional compute hubs.
+  
 - **[Spheron Console](https://console.spheron.network)**  
   Web-based dashboard for deploying, monitoring, and managing workloads.
 
@@ -37,12 +43,6 @@ Explore the tools and documentation to interact with the Spheron Protocol:
 
 - **[Protocol SDK](https://docs.spheron.network/protocol-sdk)**  
   SDK for programmatic access to the Spheron protocol.
-
-- **[Fizz Node](https://docs.spheron.network/fizz)**  
-  Lightweight clients for gaming PCs and laptops contributing compute to the network.
-
-- **[Provider Node](https://docs.spheron.network/providers)**  
-  Higher-performance nodes designed for heavier workloads and regional compute hubs.
 
 ---
 
