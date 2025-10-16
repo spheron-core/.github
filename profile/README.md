@@ -44,6 +44,9 @@ Explore the tools and documentation to interact with the Spheron Protocol:
 - **[Protocol SDK](https://docs.spheron.network/protocol-sdk)**  
   SDK for programmatic access to the Spheron protocol.
 
+- **[Spheron AI](https://spheron.ai)**  
+  Rent GPU VMs from different compliant providers with just a click.
+
 ---
 
 ## 🌐 Ecosystem Products
